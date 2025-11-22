@@ -15,7 +15,7 @@ This task analyzes monthly sales trends using MySQL. Aggregation functions like 
 - Calculated monthly order volume
 - Exported final result
 
-  ## How to Run
+## How to Run
 
 - Open MySQL Workbench
 - Load and execute Task6_Sales_Trend.sql
