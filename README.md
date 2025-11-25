@@ -1,4 +1,4 @@
-## Task 6 – Sales Trend Analysis
+## Task 6 – Sales Trend Analysis (Elevate Labs Internship)
 
 This task analyzes monthly sales trends using MySQL. Aggregation functions like SUM, COUNT, YEAR(), and MONTH() are used to calculate total revenue and order volume.
 
